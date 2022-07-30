@@ -7,9 +7,10 @@ This code is based on [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) v1.0.0 an
 The recommended way to install is shown below:
 ```
 # create a new virtual environment
-virtualenv --python=python3 venv
-source venv/bin/activate
+# virtualenv --python=python3 venv
+# source venv/bin/activate
 
+# Start from here for google colab
 # clone the repo
 git clone https://github.com/kayoyin/transformer-slt.git
 cd transformer-slt
