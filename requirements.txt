@@ -1,1 +1,3 @@
 nltk
+torchtext==0.4
+tqdm~=4.30.0
